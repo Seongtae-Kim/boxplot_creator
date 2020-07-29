@@ -1,0 +1,12 @@
+filepath = ./Reflexives.csv
+top_name = Distance
+bottom_name = Case marker
+box_name = masked
+top_values = short long
+bottom_values = nominative accusative
+box_values = caki casin
+variables_value = surprisal
+notch = False
+vert = False
+title = Reflexives
+size = 222
